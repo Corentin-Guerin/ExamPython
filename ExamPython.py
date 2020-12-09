@@ -23,7 +23,7 @@ def motus():
         
         
 def motaleatoire():
-    mot=["relier","manger","dormir","courir","tomber","avance","sourie","manier","charge","vaincu"]
+    mot=["relier","manger","dormir","courir","tomber","avance","souris","manier","charge","vaincu"]
     valmotale = random.randint(0,9)
     motale = mot[valmotale]
     return(motale)
